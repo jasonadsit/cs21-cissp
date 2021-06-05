@@ -1,4 +1,4 @@
-# cs21-cissp
+# CS21 CISSP Class
 
 Notes, videos, and stuff.
 
