@@ -19,3 +19,5 @@ Notes, videos, and stuff.
 [2021-06-06.06-32-11.CS21.CISSP.Day-4.Part-1.7z](https://github.com/jasonadsit/cs21-cissp/releases/download/latest/2021-06-06.06-32-11.CS21.CISSP.Day-4.Part-1.7z)
 
 [2021-06-06.07-45-52.CS21.CISSP.Day-4.Part-2.7z](https://github.com/jasonadsit/cs21-cissp/releases/download/latest/2021-06-06.07-45-52.CS21.CISSP.Day-4.Part-2.7z)
+
+[2021-06-06.08-48-39.CS21.CISSP.Day-4.Part-3.7z](https://github.com/jasonadsit/cs21-cissp/releases/download/latest/2021-06-06.08-48-39.CS21.CISSP.Day-4.Part-3.7z)
