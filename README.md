@@ -48,3 +48,4 @@ Notes, videos, and stuff.
 
 ### Day 6
 
+[2021-07-13.06-25-36.CS21.CISSP.Day-6.Part-1.7z](https://github.com/jasonadsit/cs21-cissp/releases/download/latest/2021-07-13.06-25-36.CS21.CISSP.Day-6.Part-1.7z)
