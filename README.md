@@ -6,6 +6,12 @@ Notes, videos, and stuff.
 
 [CS21.CISSP.Books.-.v13.1.7z](https://github.com/jasonadsit/cs21-cissp/releases/download/latest/CS21.CISSP.Books.-.v13.1.7z)
 
+[CS21.CISSP.-.Access.Control.Questions.1.7z](https://github.com/jasonadsit/cs21-cissp/releases/download/latest/CS21.CISSP.-.Access.Control.Questions.1.7z)
+
+[CS21.CISSP.-.Access.Control.Questions.2.7z](https://github.com/jasonadsit/cs21-cissp/releases/download/latest/CS21.CISSP.-.Access.Control.Questions.2.7z)
+
+[CS21.CISSP.-.Operational.Security.Questions.1.7z](https://github.com/jasonadsit/cs21-cissp/releases/download/latest/CS21.CISSP.-.Operational.Security.Questions.1.7z)
+
 ## Videos
 
 ### Day 2
@@ -59,3 +65,7 @@ Notes, videos, and stuff.
 [2021-07-13.10-18-17.CS21.CISSP.Day-6.Part-3.7z](https://github.com/jasonadsit/cs21-cissp/releases/download/latest/2021-07-13.10-18-17.CS21.CISSP.Day-6.Part-3.7z)
 
 [2021-07-13.12-35-10.CS21.CISSP.Day-6.Part-4.7z](https://github.com/jasonadsit/cs21-cissp/releases/download/latest/2021-07-13.12-35-10.CS21.CISSP.Day-6.Part-4.7z)
+
+### Day 7
+
+[2021-07-14.06-10-22.CS21.CISSP.Day-7.Part-1.7z](https://github.com/jasonadsit/cs21-cissp/releases/download/latest/2021-07-14.06-10-22.CS21.CISSP.Day-7.Part-1.7z)
