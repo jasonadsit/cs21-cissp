@@ -14,6 +14,8 @@ Notes, videos, and stuff.
 
 [CS21.CISSP.-.Application.Security.Questions.1.7z](https://github.com/jasonadsit/cs21-cissp/releases/download/latest/CS21.CISSP.-.Application.Security.Questions.1.7z)
 
+[CS21.CISSP.-.Security.Architecture.Questions.1.7z](https://github.com/jasonadsit/cs21-cissp/releases/download/latest/CS21.CISSP.-.Security.Architecture.Questions.1.7z)
+
 ## Videos
 
 ### Day 2
@@ -97,3 +99,5 @@ Notes, videos, and stuff.
 ### Day 9
 
 [2021-07-16.06-11-21.CS21.CISSP.Day-9.Part-1.7z](https://github.com/jasonadsit/cs21-cissp/releases/download/latest/2021-07-16.06-11-21.CS21.CISSP.Day-9.Part-1.7z)
+
+[2021-07-16.08-03-40.CS21.CISSP.Day-9.Part-2.7z](https://github.com/jasonadsit/cs21-cissp/releases/download/latest/2021-07-16.08-03-40.CS21.CISSP.Day-9.Part-2.7z)
