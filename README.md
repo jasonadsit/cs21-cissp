@@ -93,3 +93,7 @@ Notes, videos, and stuff.
 [2021-07-15.11-20-39.CS21.CISSP.Day-8.Part-4.7z](https://github.com/jasonadsit/cs21-cissp/releases/download/latest/2021-07-15.11-20-39.CS21.CISSP.Day-8.Part-4.7z)
 
 [2021-07-15.12-57-13.CS21.CISSP.Day-8.Part-5.7z](https://github.com/jasonadsit/cs21-cissp/releases/download/latest/2021-07-15.12-57-13.CS21.CISSP.Day-8.Part-5.7z)
+
+### Day 9
+
+[2021-07-16.06-11-21.CS21.CISSP.Day-9.Part-1.7z](https://github.com/jasonadsit/cs21-cissp/releases/download/latest/2021-07-16.06-11-21.CS21.CISSP.Day-9.Part-1.7z)
